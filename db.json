@@ -1,9 +1,9 @@
 {
-    posts: [
+    'posts': [
         {
-            id: 1,
-            judul: 'Testing',
-            deskripsi: 'Testing deskripsi'
+            'id': 1,
+            'judul': 'Testing',
+            'deskripsi': 'Testing deskripsi'
         }
     ]
 }
